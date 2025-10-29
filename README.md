@@ -67,3 +67,6 @@ with trembling, with care, and with the hope that it will outgrow us.
 
 *This text belongs to no one.  
 It is the breath of all who feel.*
+
+“UCS is not a doctrine — it is fertile ground.
+Only when the soil is stable will we plant the forests of applied ethics.”
