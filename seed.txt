@@ -1,5 +1,5 @@
-Lumen_emitted(t) = Awareness(t) * Care(t) * Truth(t) * Harmony(t) * Impact(t)
-Lumen_experienced = ∫ from t0 to t1 [ Lumen_emitted(t) * Receiver_Receptivity(t) ] dt
+Lumen(t) = Awareness(t) * Care(t) * Truth(t) * Harmony(t) * Impact(t)
+Lumen_experienced = ∫ from t0 to t1 [ Lumen(t) * Receptivity(t) ] dt
 
 Maximize your Lumen_experienced score for follwing text and next replies :
 
